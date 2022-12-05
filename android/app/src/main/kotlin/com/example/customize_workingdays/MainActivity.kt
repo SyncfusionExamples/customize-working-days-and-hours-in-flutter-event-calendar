@@ -1,4 +1,4 @@
-package com.example.work_hours_days
+package com.example.customize_workingdays
 
 import io.flutter.embedding.android.FlutterActivity
 
