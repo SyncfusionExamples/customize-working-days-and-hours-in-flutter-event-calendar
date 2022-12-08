@@ -4,6 +4,8 @@ A quick-start example to help you to change the working days and hours in the Fl
 
 You can display the required duration in the Flutter Event Calendar by using the [startHour](https://pub.dev/documentation/syncfusion_flutter_calendar/latest/calendar/TimeSlotViewSettings/startHour.html) and [endHour](https://pub.dev/documentation/syncfusion_flutter_calendar/latest/calendar/TimeSlotViewSettings/endHour.html) properties in TimeSlotViewSettings. You can also use the [nonWorkingDays](https://pub.dev/documentation/syncfusion_flutter_calendar/latest/calendar/TimeSlotViewSettings/nonWorkingDays.html) property to change the non-working days of the week according to your requirements.
 
+![starthour-endhour](https://user-images.githubusercontent.com/46158936/206459140-bd9f340a-d903-4ae8-b25c-31cca05a8f2c.png)
+
 For more details, Refer to our UG documentation [Flexible working days and working hours](https://help.syncfusion.com/flutter/calendar/timeslot-views#flexible-working-days-and-working-hours).
 
 ## Requirements to run the demo
